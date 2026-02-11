@@ -47,3 +47,12 @@ git clone https://github.com/guilherme-higino/projeto-pagina-de-receita.git
 ```
 
 - Abra o arquivo index.html no seu navegador.
+
+## 📚 Observação
+
+- Projeto desenvolvido como parte dos estudos no curso full-stack da Rocketseat, com implementação própria para fins de aprendizado e prática em desenvolvimento front-end.
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.  
+Sinta-se à vontade para usar, modificar e compartilhar.
