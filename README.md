@@ -8,7 +8,7 @@ O objetivo principal é praticar conceitos fundamentais do desenvolvimento front
 
 ## 🚀 Tecnologias Utilizadas
 
-- HTML5: Estruturação semântica da página (<header>, <main>, <footer>, etc.).
+- HTML5: Estruturação semântica da página.
 
 - CSS3: Estilização completa, incluindo:
 
